@@ -3,6 +3,9 @@ uuid = "3411303a-afba-11e9-088e-b53d98c3f667"
 authors = ["Takafumi Arakaki <aka.tkf@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+ProjC = "36ba297c-afba-11e9-203a-29180f4b1717"
+
 [compat]
 julia = "1.1"
 

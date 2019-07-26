@@ -1,5 +1,5 @@
 module ProjB
 
-greet() = print("Hello World!")
+using ProjC
 
 end # module
